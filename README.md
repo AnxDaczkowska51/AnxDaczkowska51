@@ -1,7 +1,7 @@
 ##Technologies:
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/c%2B%2B.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/java.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/python.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/javascript.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/html.svg" width="90" height="90"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/css.svg" width="90" height="90"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" width="90" height="90"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/oracle.svg" width="80" height="80"/>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="80" height="80"/>
 
     
 ##IDEs and editors:
@@ -10,8 +10,6 @@
 
 ##Currently learning:
 
-<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/ruby/ruby.svg" width="60" height="60"/>
-
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/angular.svg" width="60" height="60"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/ruby/ruby.svg" width="60" height="60"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/angular.svg" width="60" height="60"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" width="60" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="60" height="60"/>
 
 
