@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/intellij.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/pycharm.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/vs-studio.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/text%20editors/vscode.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="80" height="80"/>
 
-##Currently learning:
+##Learning:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="60" height="60"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/angular.svg" width="70" height="70"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" width="80" height="80"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80"/>
 
